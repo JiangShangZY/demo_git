@@ -1,3 +1,3 @@
 # demo_git
 
-added by **Lei**
+*Added* added by **Lei**
